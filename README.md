@@ -7,11 +7,11 @@ I work at the intersection of stochastic models, numerical methods, and financia
 
 ## About me
 
-- 🎓 Currently pursuing a Master's in **Quantitative Finance** @ PoliMi
-- 📐 BSc in **Mathematical Engineering** (Politecnico di Milano, 2025)
-- 🔍 Interested in derivatives pricing, risk modelling, and data-driven approaches to finance
-- 🌍 Based in Milan — open to international opportunities
-- 📬 [stefanodeamici2003@gmail.com](mailto:stefanodeamici2003@gmail.com)
+-  Currently pursuing a Master's in **Quantitative Finance** @ PoliMi
+-  BSc in **Mathematical Engineering** (Politecnico di Milano, 2025)
+-  Interested in derivatives pricing, risk modelling, and data-driven approaches to finance
+-  Based in Milan — open to international opportunities
+-  [stefanodeamici2003@gmail.com](mailto:stefanodeamici2003@gmail.com)
 
 ---
 
