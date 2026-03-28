@@ -37,7 +37,7 @@ Includes convergence analysis, Greeks (Delta, Vega), and American vs. European b
 Full interest rate curve bootstrap from market instruments (deposits, STIR futures, swaps) in MATLAB.  
 Includes Asset Swap Spread pricing, CDS survival probability bootstrapping testing three methods, and a Monte Carlo credit simulation using a piecewise-constant intensity model with statistical validation of estimated hazard rates.
 
-## [Bank Client Segmentation] (https://github.com/stefanodeamici2003-jpg/clusterizing-financial-personas)
+## [Bank Client Segmentation](https://github.com/stefanodeamici2003-jpg/clusterizing-financial-personas)
 Unsupervised segmentation of 5,000 bank clients using Gower Distance and K-Medoids
 on mixed categorical and numerical data. Four actionable customer personas are identified
 and validated through statistical testing and a prototype-based classifier (LVQ).
