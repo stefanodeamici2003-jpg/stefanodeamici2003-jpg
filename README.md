@@ -33,6 +33,9 @@ Pricing engines for European, Barrier (Up&Out), and Bermudan options in MATLAB.
 Implements Black-76, CRR Binomial Trees, and Monte Carlo with antithetic variance reduction.  
 Includes convergence analysis, Greeks (Delta, Vega), and American vs. European barrier comparison.
 
+### 📈 [Credit & IR Curve Bootstrapping](https://github.com/stefanodeamici2003-jpg/assignment2)
+Full interest rate curve bootstrap from market instruments (deposits, STIR futures, swaps vs Euribor 3M) in MATLAB.  
+Includes Asset Swap Spread pricing, CDS survival probability bootstrapping with three methods (no accrual, with accrual, Jarrow-Turnbull), and a Monte Carlo credit simulation using a piecewise-constant intensity model with statistical validation of estimated hazard rates.
 ---
 
 ## Connect
