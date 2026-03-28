@@ -39,7 +39,7 @@ Includes Asset Swap Spread pricing, CDS survival probability bootstrapping testi
 
 ### [Bank Client Segmentation](https://github.com/stefanodeamici2003-jpg/clusterizing-financial-personas)
 Unsupervised segmentation of 5,000 bank clients using Gower Distance and K-Medoids
-on mixed categorical and numerical data. Four actionable customer personas are identified
+on mixed categorical and numerical data in Python. Four actionable customer personas are identified
 and validated through statistical testing and a prototype-based classifier (LVQ).
 
 ---
