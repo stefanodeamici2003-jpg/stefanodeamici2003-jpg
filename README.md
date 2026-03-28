@@ -33,9 +33,14 @@ Pricing engines for European, Barrier (Up&Out), and Bermudan options in MATLAB.
 Implements Black-76, CRR Binomial Trees, and Monte Carlo with antithetic variance reduction.  
 Includes convergence analysis, Greeks (Delta, Vega), and American vs. European barrier comparison.
 
-### [[Credit & IR Curve Bootstrapping](https://github.com/stefanodeamici2003-jpg/ircurve-cds-bootstrap))
-Full interest rate curve bootstrap from market instruments (deposits, STIR futures, swaps vs Euribor 3M) in MATLAB.  
-Includes Asset Swap Spread pricing, CDS survival probability bootstrapping with three methods (no accrual, with accrual, Jarrow-Turnbull), and a Monte Carlo credit simulation using a piecewise-constant intensity model with statistical validation of estimated hazard rates.
+### [Credit & IR Curve Bootstrapping](https://github.com/stefanodeamici2003-jpg/ircurve-cds-bootstrap)
+Full interest rate curve bootstrap from market instruments (deposits, STIR futures, swaps) in MATLAB.  
+Includes Asset Swap Spread pricing, CDS survival probability bootstrapping testing three methods, and a Monte Carlo credit simulation using a piecewise-constant intensity model with statistical validation of estimated hazard rates.
+
+## [Bank Client Segmentation] (https://github.com/stefanodeamici2003-jpg/clusterizing-financial-personas)
+Unsupervised segmentation of 5,000 bank clients using Gower Distance and K-Medoids
+on mixed categorical and numerical data. Four actionable customer personas are identified
+and validated through statistical testing and a prototype-based classifier (LVQ).
 
 ---
 
