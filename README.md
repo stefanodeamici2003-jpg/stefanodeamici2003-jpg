@@ -28,12 +28,12 @@ I work at the intersection of stochastic models, numerical methods, and financia
 
 ## Featured Project
 
-### 📊 [Option Pricing Models](https://github.com/stefanodeamici2003-jpg/option-pricing-models)
+### [Option Pricing Models](https://github.com/stefanodeamici2003-jpg/option-pricing-models)
 Pricing engines for European, Barrier (Up&Out), and Bermudan options in MATLAB.  
 Implements Black-76, CRR Binomial Trees, and Monte Carlo with antithetic variance reduction.  
 Includes convergence analysis, Greeks (Delta, Vega), and American vs. European barrier comparison.
 
-### 📈 [[Credit & IR Curve Bootstrapping](https://github.com/stefanodeamici2003-jpg/ircurve-cds-bootstrap))
+### [[Credit & IR Curve Bootstrapping](https://github.com/stefanodeamici2003-jpg/ircurve-cds-bootstrap))
 Full interest rate curve bootstrap from market instruments (deposits, STIR futures, swaps vs Euribor 3M) in MATLAB.  
 Includes Asset Swap Spread pricing, CDS survival probability bootstrapping with three methods (no accrual, with accrual, Jarrow-Turnbull), and a Monte Carlo credit simulation using a piecewise-constant intensity model with statistical validation of estimated hazard rates.
 
